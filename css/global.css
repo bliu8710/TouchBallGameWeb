@@ -1,0 +1,23 @@
+﻿.disabled {
+	display: none;
+}
+
+.touch-box {
+	margin: 0 auto;
+	width: 160px;
+	height: 160px;
+
+	border-radius: 80px;
+
+	background : #FF99FF;
+
+	font-width: bold;
+}
+
+.touch-box.active {
+	background: #FFCCFF;
+}
+
+.wrap {
+	text-align: center;
+}
